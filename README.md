@@ -12,13 +12,13 @@ I just made this for myself, but if you wanna use it free to do so.
 
 In the bin directory of this repository there are 3 folders.
 
-```deb``` 	
+```deb```<br/>
 This directory contains a package installer for Debian and it's based distros (such as Ubuntu, Linux Mint, etc.)
 
-```rpm``` 	
+```rpm```<br/>	
 This directoy contains a package installer for Redhat Linux and it's based distros (such as Fedora, CentOS, etc.)
 
-```linux```	
+```linux```<br/>
 This directory contains the binary executable for linux with a folder containing libraries and stuff.
 I also included a setup script, which generates a desktop file for you to access asbc easier through
 your desktop environment (I hope this works also outside of KDE) and moves file into their respective paths.
