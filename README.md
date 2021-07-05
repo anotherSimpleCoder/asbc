@@ -1,14 +1,14 @@
-#ASBC
+# ASBC
 *Another Simple Bitwarden Client*
 
-##About
+## About
 
 As the name says, ASBC is just a simple Bitwarden Client written in Javascript based on Node.js and
 Electron. It's actually nothing more than a chromium platform displaying the Bitwarden Web Vault.
 I just made this for myself, but if you wanna use it free to do so.
 
 
-##Installation (i guess)
+## Installation (i guess)
 
 In the bin directory of this repository there are 3 folders.
 
