@@ -22,3 +22,12 @@ This directoy contains a package installer for Redhat Linux and it's based distr
 This directory contains the binary executable for linux with a folder containing libraries and stuff.
 I also included a setup script, which generates a desktop file for you to access asbc easier through
 your desktop environment (I hope this works also outside of KDE) and moves file into their respective paths.
+
+
+## Building
+
+In case you want to build ASBC you have to do the following things:<br/>
+
+* Go into the ```src``` folder.
+* Extract the ```node_modules.tar.gz``` archive.
+* Run ```npm run make``` to build the executable
