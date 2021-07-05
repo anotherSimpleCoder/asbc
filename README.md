@@ -19,9 +19,11 @@ This directory contains a package installer for Debian and it's based distros (s
 This directoy contains a package installer for Redhat Linux and it's based distros (such as Fedora, CentOS, etc.)
 
 ```linux```<br/>
-This directory contains the binary executable for linux with a folder containing libraries and stuff.
-I also included a setup script, which generates a desktop file for you to access asbc easier through
-your desktop environment (I hope this works also outside of KDE) and moves file into their respective paths.
+This directory contains the binary executable for linux and essential files archived in a ```.tar.gz``` file. In order to set it up you have to do the following:
+
+* Extract the ```.tar.gz``` archive
+* Run the ```setup.sh``` script file. 
+* Done!
 
 
 ## Building
@@ -31,3 +33,4 @@ In case you want to build ASBC you have to do the following things:<br/>
 * Go into the ```src``` folder.
 * Extract the ```node_modules.tar.gz``` archive.
 * Run ```npm run make``` to build the executable
+* Done!
